@@ -1,0 +1,35 @@
+nav ul{
+   /*color: antiquewhite;*/
+    list-style: none;
+    padding: 4px;
+    margin-top:0px;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav li{
+    margin-top: 5px;
+    font-size: 1.1em;
+    text-transform: capitalize;
+    /*color: white;*/
+}
+nav a {
+     text-decoration: none;
+     color: rgb(7, 7, 7);
+}
+nav a:hover{
+    text-decoration: underline;
+   
+}
+
+#logo {
+    width: 230px;
+    height: auto;
+   
+    
+  }
+.image2{
+margin-left: auto;
+}
+
